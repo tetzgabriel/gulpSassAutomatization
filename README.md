@@ -1,6 +1,9 @@
 # Gulp Sass Automatization
 This is a simple *gulpfile* with a Sass compiler and liveReload functionality
 
+## Prerequisites
+`node` and `npm`. 
+
 ## Instalation
 To run this code you need to put the *gulpfile.js* in your project's root and then run:<br>
   `npm install gulp-livereload` and `npm install gulp-sass` <br>
