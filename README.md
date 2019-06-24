@@ -1,5 +1,5 @@
 # Gulp Sass Automatization
-This is a gulpfile with a Sass compiler and liveReload functionality
+This is a simple gulpfile with a Sass compiler and liveReload functionality
 
 # Instalation
 To run this code you need to run:<br>
