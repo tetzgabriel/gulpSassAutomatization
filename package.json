@@ -1,0 +1,25 @@
+{
+    "name": "gulp-sass-automatization",
+    "version": "1.0.0",
+    "description": "This is a simple *gulpfile* with a Sass compiler and liveReload functionality",
+    "main": "gulpfile.js",
+    "dependencies": {},
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "gulp-livereload": "^4.0.1",
+        "gulp-sass": "^4.0.2"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tetzgabriel/gulpSassAutomatization.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tetzgabriel/gulpSassAutomatization/issues"
+    },
+    "homepage": "https://github.com/tetzgabriel/gulpSassAutomatization#readme"
+}
